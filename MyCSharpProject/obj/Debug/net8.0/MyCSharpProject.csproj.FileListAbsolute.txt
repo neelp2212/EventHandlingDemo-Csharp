@@ -1,0 +1,15 @@
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\bin\Debug\net8.0\MyCSharpProject.exe
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\bin\Debug\net8.0\MyCSharpProject.deps.json
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\bin\Debug\net8.0\MyCSharpProject.runtimeconfig.json
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\bin\Debug\net8.0\MyCSharpProject.dll
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\bin\Debug\net8.0\MyCSharpProject.pdb
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.AssemblyInfoInputs.cache
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.AssemblyInfo.cs
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.sourcelink.json
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.dll
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\obj\Debug\net8.0\refint\MyCSharpProject.dll
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.pdb
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\obj\Debug\net8.0\MyCSharpProject.genruntimeconfig.cache
+C:\Users\neel0\Desktop\CSharp-Projects2025\MyCSharpProject\obj\Debug\net8.0\ref\MyCSharpProject.dll
