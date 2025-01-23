@@ -1,0 +1,15 @@
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\bin\Debug\net9.0\SimpleATM.exe
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\bin\Debug\net9.0\SimpleATM.deps.json
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\bin\Debug\net9.0\SimpleATM.runtimeconfig.json
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\bin\Debug\net9.0\SimpleATM.dll
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\bin\Debug\net9.0\SimpleATM.pdb
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\obj\Debug\net9.0\SimpleATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\obj\Debug\net9.0\SimpleATM.AssemblyInfoInputs.cache
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\obj\Debug\net9.0\SimpleATM.AssemblyInfo.cs
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\obj\Debug\net9.0\SimpleATM.csproj.CoreCompileInputs.cache
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\obj\Debug\net9.0\SimpleATM.sourcelink.json
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\obj\Debug\net9.0\SimpleATM.dll
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\obj\Debug\net9.0\refint\SimpleATM.dll
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\obj\Debug\net9.0\SimpleATM.pdb
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\obj\Debug\net9.0\SimpleATM.genruntimeconfig.cache
+C:\Users\neel0\Desktop\CSharp-Projects2025\SimpleATM\obj\Debug\net9.0\ref\SimpleATM.dll
